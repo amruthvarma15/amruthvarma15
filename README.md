@@ -22,11 +22,11 @@
 <!--                    SOCIAL BADGES                             -->
 <!-- ============================================================ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amruth%20Varma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amruthvarma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amruth%20Varma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amruth-varma-2a47652a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-amruthvarma15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amruthvarma15)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruthvarma@email.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-amruthvarma15-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amruthvarma15)
-[![HackerRank](https://img.shields.io/badge/HackerRank-amruthvarma15-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/amruthvarma15)
+[![LeetCode](https://img.shields.io/badge/LeetCode-amruthvarma15-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmruthVarma/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-amruthvarma15-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/amruthvarma15)
 
 <br/>
 
@@ -409,8 +409,8 @@ public class amruthvarma15 extends FullStackDeveloper {
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-amruthvarma15-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amruthvarma15)
-[![HackerRank](https://img.shields.io/badge/HackerRank-amruthvarma15-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/amruthvarma15)
+[![LeetCode](https://img.shields.io/badge/LeetCode-amruthvarma15-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmruthVarma/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-amruthvarma15-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/amruthvarma15)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-amruthvarma15-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/amruthvarma15)
 [![CodeChef](https://img.shields.io/badge/CodeChef-amruthvarma15-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/amruthvarma15)
 
@@ -481,7 +481,7 @@ beyond_the_keyboard:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amruthvarma)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amruth-varma-2a47652a1/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruthvarma@email.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amruthvarma15)
 
